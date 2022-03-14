@@ -1,0 +1,12 @@
+<style>
+  body {
+    color: green;
+    font-family: monospace;
+  }
+h1{
+  color: inherit;
+  font-family: inherit;
+}
+</style>
+
+<h1>Hello World</h1>
